@@ -34,7 +34,7 @@
 		 * Background image
 		/* ---------------------------------------------- */
 
-		$('#intro').backstretch(['assets/images/city.jpg']);
+		$('#intro').backstretch(['assets/media/shilin.jpg']);
 
 		/* ---------------------------------------------- /*
 		 * Navbar
